@@ -41,9 +41,6 @@ I'm a passionate developer from India, focused on building beautiful and functio
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandhuvasudev&layout=compact&hide_title=1&card_width=280&theme=tokyonight" alt="Top Languages" />
 </p>
-
-    </td>
-  </tr>
 </table>
 
 ---
