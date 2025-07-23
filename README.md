@@ -49,7 +49,7 @@ I'm a passionate developer from India, focused on building beautiful and functio
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,c,firebase,git,github,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,c,firebase,git,github,vscode,rust&perline=5" />
   </a>
 </p>
 
