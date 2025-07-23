@@ -61,8 +61,6 @@ I'm a passionate developer from India, focused on building beautiful and functio
 ### 📊 My GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandhuvasudev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Anandhu Vasudev's GitHub Stats" />
-  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandhuvasudev&theme=tokyo-night&hide_border=true&area=true" alt="Anandhu Vasudev's Contribution Graph" />
 </div>
 
