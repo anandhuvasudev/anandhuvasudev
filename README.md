@@ -30,7 +30,7 @@ I'm a passionate developer from India, focused on building beautiful and functio
 - 🔭 I’m currently working on **Nonote**, a minimal note-taking application.
 - 🌱 I’m currently diving deep into **Rust** to explore systems programming.
 - 💬 Ask me about anything related to **Flutter, Dart, or mobile app architecture**.
-- 📫 How to reach me: **[your.email@provider.com]**
+- 📫 How to reach me: **avmemusic@gmail.com**
 - ⚡ Fun fact: I believe the best UI is the one you don't notice.
 
     </td>
@@ -78,7 +78,7 @@ I'm a passionate developer from India, focused on building beautiful and functio
   <a href="https://twitter.com/anandhuvasudev_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:anandhuvasudevavmemusic@gmail.com" target="_blank">
+  <a href="mailto:avmemusic@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
