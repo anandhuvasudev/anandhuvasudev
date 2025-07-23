@@ -1,5 +1,4 @@
-# 💫 About Me:
-m<!-- 
+<!-- 
 Hi, Anandhu! I've redesigned your README to be more modern and engaging.
 Just copy, paste, and fill in your social media links below. 
 -->
