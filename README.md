@@ -1,83 +1,120 @@
-<!-- 
-Hi, Anandhu! I've redesigned your README to be more modern and engaging.
-Just copy, paste, and fill in your social media links below. 
--->
-
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=anandhu%20vasudev&fontSize=58&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=flutter%20·%20winui%203%20·%20rust%20·%20dart&descSize=16&descAlignY=75&descColor=aaaaff" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=building+beautiful%2C+purposeful+applications.;flutter+%26+dart+mobile+developer.;windows+app+dev+with+winui+3.;currently+exploring+rust." />
+</a>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/LinkedIn-7B2FBE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0a2e)
+![](https://img.shields.io/badge/Twitter-6D28D9?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a0a2e)
+![](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0a2e)
+![](https://komarev.com/ghpvc/?username=anandhuvasudev&style=for-the-badge&color=7B2FBE&label=VIEWS&labelColor=1a0a2e)
+
 </div>
 
-<h1 align="center">
-  Hi there, I'm Anandhu Vasudev 👋
-</h1>
+<br/>
 
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF¢er=true&vCenter=true&width=435&lines=Flutter+%26+Dart+Developer;Python+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
-  </a>
-</h3>
+---
 
-<br>
+<div align="center">
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
+### 𝗔𝗕𝗢𝗨𝗧
 
-### 👨‍💻 About Me
+</div>
 
-I'm a passionate developer from India, focused on building beautiful and functional mobile applications. I enjoy solving complex problems and turning ideas into reality through clean and efficient code.
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="90%">
+<tr>
+<td align="left" width="65%" valign="top">
 
-- 🔭 I’m currently working on **Nonote**, a minimal note-taking application.
-- 🌱 I’m currently diving deep into **Rust** to explore systems programming.
-- 💬 Ask me about anything related to **Flutter, Dart, or mobile app architecture**.
-- 📫 How to reach me: **avmemusic@gmail.com**
-- ⚡ Fun fact: I believe the best UI is the one you don't notice.
+```yaml
+name:      Anandhu Vasudev
+from:      India 🇮🇳
+focus:     Mobile & Desktop App Development
+building:  Nonote — minimal note-taking app
+learning:  Rust · WinUI 3 · Windows App SDK
+ask_me:    Flutter · Dart · Mobile Architecture
+email:     avmemusic@gmail.com
+principle: "the best ui is the one you don't notice"
+```
 
-    </td>
-    <td valign="top" width="40%">
+</td>
+<td align="center" width="35%" valign="top">
 
-### 📊 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandhuvasudev&layout=compact&hide_border=true&bg_color=1a0a2e&title_color=A78BFA&text_color=c9b8ff&card_width=200" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandhuvasudev&layout=compact&hide_title=1&card_width=280&theme=tokyonight" alt="Top Languages" />
-</p>
+</td>
+</tr>
 </table>
 
----
-
-### 🛠️ My Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,c,firebase,git,github,vscode,rust&perline=5" />
-  </a>
-</p>
+<br/>
 
 ---
-
-### 📊 My GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandhuvasudev&theme=tokyo-night&hide_border=true&area=true" alt="Anandhu Vasudev's Contribution Graph" />
+
+### 𝗦𝗧𝗔𝗖𝗞
+
+<br/>
+
+**📱 Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-1a0a2e?style=for-the-badge&logo=flutter&logoColor=A78BFA)
+![Dart](https://img.shields.io/badge/Dart-1a0a2e?style=for-the-badge&logo=dart&logoColor=818CF8)
+![Firebase](https://img.shields.io/badge/Firebase-1a0a2e?style=for-the-badge&logo=firebase&logoColor=C4B5FD)
+
+<br/>
+
+**🖥️ Desktop · Windows**
+
+![WinUI 3](https://img.shields.io/badge/WinUI_3-1a0a2e?style=for-the-badge&logo=windows11&logoColor=A78BFA)
+![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-1a0a2e?style=for-the-badge&logo=windows&logoColor=818CF8)
+![XAML](https://img.shields.io/badge/XAML-1a0a2e?style=for-the-badge&logo=xaml&logoColor=C4B5FD)
+
+<br/>
+
+**⚙️ Languages**
+
+![Python](https://img.shields.io/badge/Python-1a0a2e?style=for-the-badge&logo=python&logoColor=A78BFA)
+![Rust](https://img.shields.io/badge/Rust-1a0a2e?style=for-the-badge&logo=rust&logoColor=818CF8)
+![C++](https://img.shields.io/badge/C++-1a0a2e?style=for-the-badge&logo=cplusplus&logoColor=C4B5FD)
+![C](https://img.shields.io/badge/C-1a0a2e?style=for-the-badge&logo=c&logoColor=DDD6FE)
+
+<br/>
+
+**🧰 Environment**
+
+![Git](https://img.shields.io/badge/Git-1a0a2e?style=for-the-badge&logo=git&logoColor=A78BFA)
+![VS Code](https://img.shields.io/badge/VS_Code-1a0a2e?style=for-the-badge&logo=visualstudiocode&logoColor=818CF8)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-1a0a2e?style=for-the-badge&logo=visualstudio&logoColor=C4B5FD)
+
 </div>
+
+<br/>
 
 ---
 
-### 🤝 Let's Connect!
+<div align="center">
 
-<p align="center">
-  <!-- ⚠️ IMPORTANT: Please fill in your details below! -->
-  <a href="https://www.linkedin.com/in/anandhuvasudev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/anandhuvasudev_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:avmemusic@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 𝗦𝗧𝗔𝗧𝗦
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anandhuvasudev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<br/>
+
+
+<img height="170" src="https://streak-stats.demolab.com?user=anandhuvasudev&hide_border=true&background=1a0a2e&ring=7B2FBE&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=8B5CF6&dates=6D28D9&currStreakNum=c9b8ff&sideNums=c9b8ff" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" />
+
+</div>
