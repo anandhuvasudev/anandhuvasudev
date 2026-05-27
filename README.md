@@ -11,4 +11,9 @@
 ![C#](https://img.shields.io/badge/C%23-101010?style=for-the-badge&logo=csharp&logoColor=9B4F96)
 ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=anandhuvasudev&style=for-the-badge&color=101010&label=PROFILE+VIEWS)
+
 </div>
